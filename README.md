@@ -5,9 +5,7 @@ A CLI to remove that annoying `.DS_Store`.
 ### Installation
 Run the following command.
 
-    sudo curl https://dskill.gadhagod.repl.co/ -o /usr/bin/dskill && sudo chmod 755 /usr/bin/dskill
-
-Or run [install.sh](install.sh).
+    npm i ds_kill -g
 
 ### Usage
 
